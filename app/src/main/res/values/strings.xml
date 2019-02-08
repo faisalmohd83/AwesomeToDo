@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Awesome Todo List</string>
+    <string name="save_and_close"><![CDATA[save & close]]></string>
+    <string name="no_todo">Add new</string>
+</resources>
